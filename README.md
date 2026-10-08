@@ -44,9 +44,9 @@
 
 ## 📫 Get in Touch
 
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 🌐 Portfolio: [working on it ..]()
 
-- 💼 LinkedIn: [your-handle](https://linkedin.com/in/shanthanu3652)
+- 💼 LinkedIn: [Shanthanu](https://linkedin.com/in/shanthanu3652)
 
 ---
 
