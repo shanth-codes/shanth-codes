@@ -36,7 +36,7 @@
 <div align="center">
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shanth-codes&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shant-codes&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanth-codes&layout=compact)
 
 </div>
 
