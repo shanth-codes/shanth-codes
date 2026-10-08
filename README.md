@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Your Name 👋
+# Hi there, I'm Shanthanu 👋
 
 **Developer · Problem Solver · Lifelong Learner**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shanth-codes&color=blue&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shanthanu3652)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shanth1shot)
 
 
 </div>
@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
  
-- 🌱 I'm learning **Harvards complete CS50 course**
+- 🌱 I'm learning **Harvards CS50 **
 - 🤝 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, Python, Web Dev**
 
@@ -52,6 +52,6 @@
 
 <div align="center">
 
-⭐ From [Your Name](https://github.com/shanth-codes)
+⭐ From [Shanthanu](https://github.com/shanth-codes)
 
 </div>
