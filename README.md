@@ -4,7 +4,6 @@
 
 **Developer · Problem Solver · Lifelong Learner**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shanth-codes&color=blue&style=flat-square)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shanthanu3652)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shanth1shot)
 
